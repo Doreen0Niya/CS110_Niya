@@ -79,9 +79,11 @@ public class Category {
 ```
 
 #### Hobbies:
-One of my favorite anime watched recently: *haikyuu!*
+One of my favorite anime watched recently: *haikyuu!!*
 
 ![Haikyuu Image](https://github.com/Doreen0Niya/CS110_Niya/blob/main/images.jfif)
+
+###### Image from comic book *haikyuu!!*
 
 Here is one quote from *haikyuu!*
 >Talent is something you make bloom, instinct is something you polish.
